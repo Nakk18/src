@@ -1,0 +1,5 @@
+nakk 50
+nakk 50
+Nakk 50
+nakk 20
+n 20
